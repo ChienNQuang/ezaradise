@@ -1,4 +1,4 @@
-baseURL = "https://blog.ezarp.dev"
+baseURL = "https://blog.ezarp.dev/"
 title = "Ezarparadise"
 theme = "etch"
 languageCode = "en-US"
