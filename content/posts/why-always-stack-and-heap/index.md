@@ -1,7 +1,7 @@
 ---
 title: "Why Always Stack and Heap?"
 date: 2023-08-21T22:23:26+07:00
-draft: false
+draft: true
 author: "Chien Nguyen Quang"
 language: "English"
 ---
