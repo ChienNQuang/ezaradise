@@ -1,7 +1,7 @@
 ---
 title: "TIL: how to keep state when user navigate back in Vue"
 date: 2023-12-24T01:42:41+07:00
-draft: true
+draft: false
 ---
 
 It's almost 2AM, and I found THE solution to a problem I was having:
