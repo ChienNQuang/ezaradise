@@ -1,0 +1,17 @@
+[latestPosts]
+    other = 'Bài gần nhất'
+    
+[readMore]
+    other = 'Đọc thêm ko?'
+
+[summary]
+    other = 'Tổng cmn kết'
+
+[estimatedReadingTime]
+    other = 'Tốn %d phút cuộc đời'
+
+[404_title]
+    other = 'ko tồn tại'
+
+[404_text]
+    other = 'O đờ'
