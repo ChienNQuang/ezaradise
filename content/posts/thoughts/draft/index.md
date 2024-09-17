@@ -25,3 +25,5 @@ but what is worse is, if I pull the scope out and see it with a bigger picture, 
 opinions are personal by default
 
 what I think I want to express in this article is that opinion is very important in our life, and I meant it not in a group-beneficial, for-a-greater good kind of importance, but more of a identity, proving who you are type of thing, while being neutral and depending on the situation to do the solving and decision making is great, it to me doesnt strike as
+
+now I think that opinion is the pinnacle of the human arrogance
