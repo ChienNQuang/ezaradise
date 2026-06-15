@@ -17,17 +17,17 @@ disqusShortname = ""
 enableEmoji = true
 
 # giscus is a comment system based on GitHub Discussions. see https://giscus.app
-[giscus]       
-    enable = false
-    repo = ""
-    repoId = ""
+[giscus]
+    enable = true
+    repo = "ChienNQuang/ezaradise"
+    repoId = "R_kgDOKJT0tQ"
     category = "Announcements"
-    categoryId = ""
-    # mapping = "pathname"  # comment value is the default value
-    # strict = 0
-    # reactionsEnabled = 1
-    # emitMetadata = 0
-    # inputPosition = "top"
-    # theme = "light"
-    # lang = "zh-CN"
-    # lazyLoading = true
+    categoryId = "DIC_kwDOKJT0tc4C_Ip4"
+    mapping = "pathname"
+    strict = 0
+    reactionsEnabled = 1
+    emitMetadata = 0
+    inputPosition = "top"
+    theme = "preferred_color_scheme"
+    lang = "en"
+    lazyLoading = true
